@@ -1,0 +1,20 @@
+CRITICAL - 2022-11-09 07:25:12 --> No connection could be made because the target machine actively refused it
+#0 D:\XAMPP\htdocs\System\app\Views\inventory_A.php(225): mysqli_connect('localhost', 'root', '')
+#1 D:\XAMPP\htdocs\System\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\System\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('inventory_A', Array, true)
+#4 D:\XAMPP\htdocs\System\app\Controllers\BranchA.php(11): view('inventory_A')
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\BranchA->index()
+#6 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchA))
+#7 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-09 10:55:47 --> Invalid file: Home.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Home.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('Home', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\Sent_AB.php(15): view('Home')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Sent_AB->index()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sent_AB))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

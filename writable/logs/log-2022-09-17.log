@@ -1,0 +1,33 @@
+CRITICAL - 2022-09-17 10:00:05 --> Call to undefined function App\Controllers\views()
+#0 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#1 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-09-17 10:00:19 --> Call to undefined function App\Controllers\views()
+#0 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#1 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-09-17 10:00:23 --> Call to undefined function App\Controllers\views()
+#0 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#1 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-09-17 10:00:24 --> Call to undefined function App\Controllers\views()
+#0 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#1 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-09-17 10:00:24 --> Call to undefined function App\Controllers\views()
+#0 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#1 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-09-17 10:37:18 --> Cannot redeclare App\Controllers\Users::index()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

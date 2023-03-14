@@ -1,0 +1,13 @@
+CRITICAL - 2023-03-12 10:37:52 --> require(D:\XAMPP\htdocs\System\app\Views/PHPExcel/Autoloader.php): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\System\app\Views\PHPExcel.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 6)
+#1 D:\XAMPP\htdocs\System\app\Views\PHPExcel.php(6): require()
+#2 D:\XAMPP\htdocs\System\app\Views\generate_report.php(34): require_once('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\System\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\System\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('generate_report', Array, true)
+#6 D:\XAMPP\htdocs\System\app\Controllers\Generate_report.php(15): view('generate_report')
+#7 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Generate_report->index()
+#8 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Generate_report))
+#9 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}

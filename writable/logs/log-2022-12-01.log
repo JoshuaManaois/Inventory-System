@@ -1,0 +1,33 @@
+CRITICAL - 2022-12-01 20:23:12 --> Undefined array key "user_name"
+#0 D:\XAMPP\htdocs\System\app\Views\main.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 35)
+#1 D:\XAMPP\htdocs\System\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\System\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('main', Array, true)
+#4 D:\XAMPP\htdocs\System\app\Controllers\Home.php(13): view('main')
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-12-01 20:23:18 --> Undefined array key "user_name"
+#0 D:\XAMPP\htdocs\System\app\Views\main.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 35)
+#1 D:\XAMPP\htdocs\System\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\System\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('main', Array, true)
+#4 D:\XAMPP\htdocs\System\app\Controllers\Home.php(13): view('main')
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-12-01 20:27:16 --> Undefined array key "user_name"
+#0 D:\XAMPP\htdocs\System\app\Views\main.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 35)
+#1 D:\XAMPP\htdocs\System\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\System\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('main', Array, true)
+#4 D:\XAMPP\htdocs\System\app\Controllers\Home.php(13): view('main')
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

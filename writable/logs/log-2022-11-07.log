@@ -1,0 +1,33 @@
+CRITICAL - 2022-11-07 01:51:05 --> Duplicate entry '0' for key 'PRIMARY'
+#0 D:\XAMPP\htdocs\System\app\Views\add_A.php(16): mysqli_query(Object(mysqli), 'INSERT INTO bra...')
+#1 D:\XAMPP\htdocs\System\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\System\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('add_A', Array, true)
+#4 D:\XAMPP\htdocs\System\app\Controllers\Database_A.php(15): view('add_A')
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Database_A->index()
+#6 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Database_A))
+#7 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-07 01:51:18 --> Duplicate entry '0' for key 'PRIMARY'
+#0 D:\XAMPP\htdocs\System\app\Views\add_A.php(16): mysqli_query(Object(mysqli), 'INSERT INTO bra...')
+#1 D:\XAMPP\htdocs\System\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\System\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('add_A', Array, true)
+#4 D:\XAMPP\htdocs\System\app\Controllers\Database_A.php(15): view('add_A')
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Database_A->index()
+#6 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Database_A))
+#7 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-07 01:51:23 --> Duplicate entry '0' for key 'PRIMARY'
+#0 D:\XAMPP\htdocs\System\app\Views\add_A.php(16): mysqli_query(Object(mysqli), 'INSERT INTO bra...')
+#1 D:\XAMPP\htdocs\System\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\System\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('add_A', Array, true)
+#4 D:\XAMPP\htdocs\System\app\Controllers\Database_A.php(15): view('add_A')
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Database_A->index()
+#6 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Database_A))
+#7 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

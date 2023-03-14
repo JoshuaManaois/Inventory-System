@@ -1,0 +1,153 @@
+CRITICAL - 2022-10-01 13:11:08 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\BranchA.php(9): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\BranchA->index()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchA))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:13:37 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\BranchA.php(9): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\BranchA->index()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchA))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:19:16 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\Home.php(13): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Home->branchA()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:20:39 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\Home.php(9): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:20:44 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\Home.php(9): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:21:17 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\Home.php(13): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Home->branchA()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:21:30 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\Home.php(13): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Home->branchA()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:21:43 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\Home.php(13): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Home->branchA()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:26:48 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\Home.php(17): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Home->branchA()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:27:11 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\Home.php(17): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Home->branchA()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:27:13 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\Home.php(17): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\Home->branchA()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:33:46 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\BranchA.php(11): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\BranchA->index()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchA))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:33:49 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\BranchA.php(11): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\BranchA->index()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchA))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:34:51 --> Invalid file: branchA.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchA.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('branchA', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\BranchA.php(11): view('branchA')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\BranchA->index()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchA))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:35:27 --> Invalid file: brancha.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('brancha.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('brancha', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\BranchA.php(11): view('brancha')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\BranchA->index()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchA))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:36:17 --> Invalid file: brancha.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('brancha.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('brancha', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\BranchA.php(11): view('brancha')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\BranchA->index()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchA))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-01 13:36:37 --> Invalid file: brancha.php
+#0 D:\XAMPP\htdocs\System\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('brancha.php')
+#1 D:\XAMPP\htdocs\System\system\Common.php(1089): CodeIgniter\View\View->render('brancha', Array, true)
+#2 D:\XAMPP\htdocs\System\app\Controllers\BranchA.php(11): view('brancha')
+#3 D:\XAMPP\htdocs\System\system\CodeIgniter.php(832): App\Controllers\BranchA->index()
+#4 D:\XAMPP\htdocs\System\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchA))
+#5 D:\XAMPP\htdocs\System\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\System\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
